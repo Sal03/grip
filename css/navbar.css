@@ -1,0 +1,16 @@
+
+.nav-link{
+	margin-right: 30px;
+	color: white;
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+}
+.navbar-brand{
+	color:white;
+	letter-spacing: 0.5px;
+}
+h2{
+	color: white;
+	letter-spacing: 0.5px;
+	font-family: raleway;
+}
